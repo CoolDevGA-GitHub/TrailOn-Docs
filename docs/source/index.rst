@@ -1,13 +1,12 @@
-Welcome to Lumache's documentation!
+Welcome to Trail On's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Trail On** by CoolDevGA is a FPC (First Person Controller) Story Mode Game
+that shows the user a whole new dimension of fantasy.
+It encourages the user's sttention to detail. More Information is on its website, `Trail On | CoolDevGA <https://gamedevga.wixsite.com/trailon>`_
 
 Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+how to do the step by step :ref:`installation` of the game.
 
 .. note::
 
