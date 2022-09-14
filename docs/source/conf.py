@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Trail On'
+copyright = '2022, CoolDevGA'
+author = 'CoolDevGA'
 
 release = '0.1'
 version = '0.1.0'
